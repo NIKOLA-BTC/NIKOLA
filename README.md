@@ -107,3 +107,15 @@ Estimated daily output per TH/s:
 
 ```text
 0.00000046 BTC / day / TH/s
+```
+
+---
+
+# Documentation
+
+- [FAQ](docs/faq.md)
+- [How Mining Works](docs/how-mining-works.md)
+- [Hashrate Explanation](docs/hashrate-explanation.md)
+- [Reward Mechanism](docs/reward-mechanism.md)
+- [Infrastructure Overview](docs/infrastructure-overview.md)
+- [Hashrate Plans](docs/plans.md)
