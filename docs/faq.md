@@ -36,3 +36,21 @@ The minimum hashrate purchase is:
 
 ```text
 10 TH/s
+```
+---
+
+## When is the principal refunded?
+
+The purchased plan principal is fully refunded at the end of the selected contract period.
+
+---
+
+## How are rewards generated?
+
+Rewards are generated through real Bitcoin mining infrastructure powered by global hashrate centers.
+
+---
+
+## Can mining rewards change?
+
+Yes. Mining rewards vary based on Bitcoin network conditions and mining difficulty.
