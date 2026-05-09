@@ -23,3 +23,5 @@ Estimated mining output per TH/s:
 
 ```text
 0.00000046 BTC / day / TH/s
+
+Mining rewards may vary over time depending on network conditions.
