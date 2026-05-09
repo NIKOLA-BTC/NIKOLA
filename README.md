@@ -1,3 +1,4 @@
+![NIKOLA](assets/img_v3_0210u_3306bb12-6a30-4bf9-a6fd-62f469f70fcg.png)
 <div align="center">
 
 # NIKOLA ⚡
@@ -57,6 +58,7 @@ The NIKOLA App provides users with direct access to hashrate products and mining
 - Global infrastructure access
 - Simple onboarding experience
 
+![app](assets/app.png)
 ---
 
 # Core Advantages
@@ -108,7 +110,7 @@ Estimated daily output per TH/s:
 ```text
 0.00000046 BTC / day / TH/s
 ```
-
+![Mining](assets/6fcaa75c-694b-405c-ac30-a95b91c732af.png)
 ---
 
 # Documentation
