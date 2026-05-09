@@ -14,3 +14,14 @@ User rewards are calculated according to:
 - Mining uptime
 - Bitcoin network difficulty
 - Block production conditions
+
+---
+
+# Full Reward Ownership
+
+Users retain 100% of mining rewards generated during the contract period.
+
+NIKOLA does not charge:
+- Commission
+- Electricity fees
+- Service fees
