@@ -17,7 +17,7 @@ NIKOLA provides multiple hashrate access plans designed for different participat
 Estimated mining output:
 
 ```text
-0.00000046 BTC / day / TH/s
+0.00000047 BTC / day / TH/s
 ```
 
 Mining rewards vary based on network conditions and Bitcoin mining difficulty.
